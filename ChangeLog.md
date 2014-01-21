@@ -1,14 +1,14 @@
 TELNET_Class_Xojo Change Log:
 
 1. Added 1/20/2014 - v1.0(8)
-1. Added a Custom Event Definition named"TELNETDataAvailable" which allows interaction with the Returned TELNET 
+1a. Added a Custom Event Definition named"TELNETDataAvailable" which allows interaction with the Returned TELNET 
 Data much easier for developers
 
 
 2. Added 12/16/2013 - v.1.0(7)
-1. TELNET_Class.TELNET(IPAddress, Username, Password) now supports three passable parameters
-2. Added "Auto Login" Service Feature
-3. Added "Auto Login Prompt Style" Feature
+2a. TELNET_Class.TELNET(IPAddress, Username, Password) now supports three passable parameters
+2b. Added "Auto Login" Service Feature
+2c. Added "Auto Login Prompt Style" Feature
 
 
 3. Added 11/16/2013 - v.1.0(5)
