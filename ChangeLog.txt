@@ -24,6 +24,4 @@ can expand on Window1 controls)
 9. NEW ENVIRONMENT - User can toggle checkbox (True/False) to enable/disable : It pulls your OS (echo $USER and 
 echo $DISPLAY)
 10. X DISPLAY LOCATION - User can toggle checkbox (True/False) to enable/disable : It pulls your OS (echo $DISPLAY)
-
-
-
+11. Added a TELNET class Constructor and moved startup specific tasks to it
