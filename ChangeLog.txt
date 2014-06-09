@@ -1,5 +1,9 @@
 TELNET_Class_Xojo Change Log:
 
+Added 6/9/2014 - v.1.0(9)
+1. Refactored code in most functions/methods/events to some level
+
+
 Added 1/20/2014 - v1.0(8)
 1. Added a Custom Event Definition named"TELNETDataAvailable" which allows interaction with the Returned TELNET 
 Data much easier for developers
