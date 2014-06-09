@@ -1,11 +1,10 @@
 TELNET_Class_Xojo
 =================
 
-Class version:  1.0(8)
-Created using Xojo Version: 2013 R4.1
-
 Written By: Mike Cotrone - CCIE #8411 Routing/Switching, CCIE #8411 Voice
 Contact Info: (Twitter: @mikecotrone Email: mikec@intelligentvisibility.com)
+
+Note: Read Changelog for details
 
 ** Licensed under the "BSD 3-Clause License" - http://opensource.org/licenses/BSD-3-Clause
 
