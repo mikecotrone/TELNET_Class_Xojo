@@ -1,7 +1,8 @@
 TELNET_Class_Xojo
 =================
 
-Written By: Mike Cotrone - CCIE #8411 Routing/Switching, CCIE #8411 Voice
+Written By: 
+Mike Cotrone - CCIE #8411 Routing/Switching, CCIE #8411 Voice
 Contact Info: (Twitter: @mikecotrone Email: mikec@intelligentvisibility.com)
 
 Note: Read Changelog for details
