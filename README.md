@@ -1,22 +1,24 @@
 TELNET_Class_Xojo
 =================
 
-Class version:  1.0(8)
-Created using Xojo Version: 2013 R4.1
+Written By:
 
-Written By: Mike Cotrone - CCIE #8411 Routing/Switching, CCIE #8411 Voice
+Mike Cotrone - CCIE #8411 Routing/Switching, CCIE #8411 Voice
+
 Contact Info: (Twitter: @mikecotrone Email: mikec@intelligentvisibility.com)
+
+Note: Read Changelog for details
 
 ** Licensed under the "BSD 3-Clause License" - http://opensource.org/licenses/BSD-3-Clause
 
-I wrote this TELNET class since Xojo doesn't have a TELNET class yet and I need to properly negotiate 
-TELNET IAC options with my remote hosts in order to properly and efficiently retreive information. This Xojo code is free to use
-and has no disclaimers or warranties. Use at your own risk and please email me any suggestions.
+I wrote this TELNET class to properly negotiate TELNET IAC options and IAC sub-options with my remote hosts in order to properly and efficiently retreive information. This Xojo project is free to use
+and has no disclaimers or warranties. Use at your own risk and please email me with any suggestions.
 
-I didn't implement all of the TELNET options primarly due to the age of this protocol. We do not live in the world of IBM hosts or
-TN3270 emulation any longer, bandwidth is plentiful, and half duplex communication is dead :)
+IMPLEMENTATION NOTE:
 
-The Basic Terminal front end that is a part of this Demo is for example only since it is very very basic. :)
+I didn't implement all of the TELNET options primarly due to the age of this protocol. We do not live in the world of IBM hosts or TN3270 emulation any longer, bandwidth is plentiful, and half duplex communication is dead :)
+
+The Basic Terminal front end that is a part of this Demo is for example only since it is very limited.
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 SUPPORTED OPTIONS:
