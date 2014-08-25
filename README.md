@@ -18,7 +18,12 @@ IMPLEMENTATION NOTE:
 
 I didn't implement all of the TELNET options primarly due to the age of this protocol. We do not live in the world of IBM hosts or TN3270 emulation any longer, bandwidth is plentiful, and half duplex communication is dead :)
 
-The Basic Terminal front end that is a part of this Demo is for example only since it is very limited.
+The Basic Terminal front end that is a part of this Demo is for example purposes only since it is limited.
+
+Please report any bugs or issues at:
+https://github.com/IntelligentVisibility/TELNET_Class_Xojo/issues
+
+
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 SUPPORTED OPTIONS:
