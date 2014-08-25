@@ -20,6 +20,9 @@ I didn't implement all of the TELNET options primarly due to the age of this pro
 
 The Basic Terminal front end that is a part of this Demo is for example purposes only since it is limited.
 
+
+BUGS OR ISSUES:
+
 Please report any bugs or issues at:
 https://github.com/IntelligentVisibility/TELNET_Class_Xojo/issues
 
