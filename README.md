@@ -3,9 +3,7 @@ TELNET_Class_Xojo
 
 Written By:
 
-Mike Cotrone - CCIE #8411 Routing/Switching, CCIE #8411 Voice
-
-Contact Info: (Twitter: @mikecotrone Email: mikec@intelligentvisibility.com)
+Mike Cotrone - CCIE #8411 Routing/Switching, CCIE #8411 Voice)
 
 Note: Read Changelog for details
 
@@ -22,10 +20,7 @@ The Basic Terminal front end that is a part of this Demo is for example purposes
 
 
 BUGS OR ISSUES:
-
-Please report any bugs or issues at:
-https://github.com/IntelligentVisibility/TELNET_Class_Xojo/issues
-
+https://github.com/mikecotrone/TELNET_Class_Xojo/issues
 
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
