@@ -78,9 +78,11 @@ Inherits TCPSocket
 		    Next y
 		  Wend 
 		  // 
-		  // // Finished Filling Input Queues :: Begin to Process Responses
+		  // Finished Filling Input Queues :: Begin to Process Responses
 		  // processIacOutputResp()
 		  // processIacSoOutputResp()
+		  
+		  // I NEVER ADDED SENDING THE RESPONSES BACK 
 		  
 		  RaiseEvent DataAvailable(recvBufferStr)
 		  
