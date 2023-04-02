@@ -79,8 +79,8 @@ Inherits TCPSocket
 		  Wend 
 		  // 
 		  // Finished Filling Input Queues :: Begin to Process Responses
-		  // processIacOutputResp()
-		  // processIacSoOutputResp()
+		  ' processIacOutputResp()
+		  ' processIacSoOutputResp()
 		  
 		  // I NEVER ADDED SENDING THE RESPONSES BACK 
 		  
